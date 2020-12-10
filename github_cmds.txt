@@ -2,3 +2,5 @@ git clone
 git status
 git restore
 git log
+git branch
+git diff
