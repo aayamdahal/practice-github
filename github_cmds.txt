@@ -6,4 +6,5 @@ git branch, this shows which branch we're in
 git diff
 My name is Shtam
 
+My name is Ram
 
