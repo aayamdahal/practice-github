@@ -1,6 +1,8 @@
 git clone
 git status
 git restore
-git log
-git branch
+git log, this gives log of commits 
+git branch, this shows which branch we're in
 git diff
+
+
