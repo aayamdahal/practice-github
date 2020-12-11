@@ -4,3 +4,6 @@ git restore
 git log
 git branch
 git diff
+git branch <branch name>
+git checkout <branch name : enter branch >
+
