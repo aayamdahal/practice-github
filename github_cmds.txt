@@ -4,4 +4,4 @@ git restore
 git log, this gives log of commits 
 git branch, this shows which branch we're in
 git diff
-This is sita
+This is ramita
