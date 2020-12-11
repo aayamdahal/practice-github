@@ -4,5 +4,7 @@ git restore
 git log, this gives log of commits 
 git branch, this shows which branch we're in
 git diff
+My name is Shtam
+
 My name is Ram
 
